@@ -44,7 +44,7 @@ def clear_face_enhancer() -> None:
 import os
 def pre_check() -> bool:   
     # download_directory_path = resolve_relative_path('../models')
-    # conditional_download(download_directory_path, ['https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/GFPGANv1.2.pth'])
+    # conditional_download(download_directory_path, ['https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth'])
     return True
 
 
